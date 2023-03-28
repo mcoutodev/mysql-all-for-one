@@ -11,4 +11,4 @@ INSERT INTO
     inventory_id
   )
 VALUES
-  (69, 80, 15000, 15000, 0, 2, NULL, NULL, 129);
+  (69, 80, 15.000, 15.000, 0, 2, NULL, NULL, 129);
